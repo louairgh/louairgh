@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 -----------------
 
-iam developer qb-core who loves react!
+qb-core developer!
 
 * ✉️  You can contact me at [ddzlouai@gmail.com](mailto:ddzlouai@gmail.com)
 * 🧠  I'm learning Angular Velocity
