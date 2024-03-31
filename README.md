@@ -23,8 +23,7 @@ Hi , I'm Louai  ![](https://user-images.githubusercontent.com/18350557/176309783
 ![](https://github-readme-streak-stats.herokuapp.com/?user=louairgh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=louairgh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=louairgh&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 
