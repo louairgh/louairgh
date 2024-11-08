@@ -9,7 +9,7 @@ My website: http://louaimarketing.wuaze.com
 
 🔭 I’m currently working on FiveM Custom Scripts.
 
-👨‍💻 I'm a developer for qb-core!.
+👨‍💻 I'm a developer for qbcore-framework!.
 
 🌱 I’m currently learning TypeScript.
 
