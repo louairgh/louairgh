@@ -4,7 +4,6 @@
 ---
 
 # 💫 About Me  
-**Website**: [louaimarketing.wuaze.com](http://louaimarketing.wuaze.com)  
 
 🔭 Working on **Custom FiveM Scripts**  
 👨‍💻 Developer for **Custom Services for QBCore Framework**  
