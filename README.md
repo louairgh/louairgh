@@ -5,7 +5,7 @@
 
 ## 🎮 **Web & Game Developer | FiveM Expert**
 
-![Profile Views](https://visitcount.itsvg.in/api?id=louairgh&icon=8&color=0)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=Kumara2mahe%2FViews-Counter)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br>
 
 ## 🔧 **What I Do:**
