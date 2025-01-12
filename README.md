@@ -38,6 +38,7 @@ I provide continuous maintenance, bug fixes, and updates to keep your scripts an
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br>
 
 ### ⚙️ **Backend Development:**
+![LUA](https://img.shields.io/badge/LUA%20-%23000079.svg?style=for-the-badge&logo=lua%2B%2B&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
