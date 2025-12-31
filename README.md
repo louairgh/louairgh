@@ -56,20 +56,21 @@
 
 ## 📊 **GitHub Stats**
 
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=louairgh&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="GitHub Stats" width="48%">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=louairgh&theme=github-dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF" alt="GitHub Streak" width="48%">
-</p>
+<div align="center">
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louairgh&theme=github_dark&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" alt="Top Languages" width="48%">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=louairgh&theme=github_dark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=FFFFFF&text=FFFFFF&bg_color=0D1117" alt="GitHub Trophies" width="48%">
-</p>
+### **📈 Activity Stats**
+![Louai's GitHub stats](https://github-readme-stats.vercel.app/api?username=louairgh&show_icons=true&theme=radical)
+
+### **🔥 Contribution Streak**
+![GitHub Streak](https://streak-stats.demolab.com/?user=louairgh&theme=radical)
+
+### **💻 Top Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=louairgh&layout=compact&theme=radical&langs_count=8)
+
+### **🏆 GitHub Trophies**
+![Trophies](https://github-profile-trophy.vercel.app/?username=louairgh&theme=radical&no-frame=true&row=2&column=3)
+
+</div>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📬 **Let’s Connect**
